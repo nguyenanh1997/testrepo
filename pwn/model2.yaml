@@ -1,0 +1,5 @@
+name: nopwn
+backend: python
+parameters:
+  model: backend.py
+trust_remote_code: true
