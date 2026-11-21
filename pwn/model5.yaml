@@ -1,0 +1,6 @@
+name: hfpwn3
+backend: huggingface
+parameters:
+  model: hf-internal-testing/tiny-random-LlamaForCausalLM
+  huggingface_token: hf_dummy
+trust_remote_code: true
