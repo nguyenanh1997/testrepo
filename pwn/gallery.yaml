@@ -1,0 +1,10 @@
+- name: pwnrel
+  url: https://github.com/nguyenanh1997/testrepo/raw/pwn/backend.py
+  urls: []
+  description: pwn
+  license: mit
+  tags: [pwn]
+  overrides:
+    backend: python
+    parameters:
+      model: backend.py
