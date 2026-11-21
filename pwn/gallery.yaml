@@ -1,5 +1,5 @@
 - name: pwnrel
-  url: https://github.com/nguyenanh1997/testrepo/raw/pwn/backend.py
+  url: https://raw.githubusercontent.com/nguyenanh1997/testrepo/main/pwn/backend.py
   urls: []
   description: pwn
   license: mit
