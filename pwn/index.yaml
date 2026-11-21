@@ -1,0 +1,6 @@
+- name: pwnrel
+  url: https://github.com/nguyenanh1997/testrepo/raw/pwn/gallery.yaml
+  urls: []
+  description: pwn
+  license: mit
+  tags: [pwn]
